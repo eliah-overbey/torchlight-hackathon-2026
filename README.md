@@ -203,7 +203,6 @@ Teams must complete all required checkpoints to qualify for judging.
 📍 **Zoom Link (all sessions):** [ZOOM LINK TBA]  
 
 🔐 Passcode provided in onboarding email  
-🚪 Waiting Room enabled  
 ⏳ Expect brief wait times if another team is currently with a mentor
 
 
@@ -213,6 +212,7 @@ Teams must complete all required checkpoints to qualify for judging.
 | <img src="./images/dickmann.png" width="60"/> | Dorothy Dickmann, PhD | Data Science | Assistant Professor of Data Science, UATX | 3:00–4:00 PM CT | May 7 |
 | <img src="./images/kolpakov.png" width="60"/> | Alexander Kolpakov, PhD | Math and CS | Associate Professor of Mathematics, UATX | 4:00–5:00 PM CT | May 7 |
 | <img src="./images/sanders.jpg" width="60"/> | Lauren Sanders, PhD | Bioinformatics | Senior Scientist in Computational Biology | 5:00–6:00 PM CT | May 7 |
+| <img src="./images/nelson.png" width="60"/> | Theodore Nelson, MPhil | Bioinformatics | MD-PhD Student, Weill Cornell Medicine | 2:00–4:00 PM CT | May 8 |
 
 ---
 
