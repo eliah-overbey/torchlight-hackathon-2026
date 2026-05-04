@@ -154,6 +154,7 @@ Good luck — build something meaningful.
 |------|------------|------------|
 | [Thomas Olson](https://www.linkedin.com/in/thomaslukeolson?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | University of Austin (UATX) | STEM |
 | Earl M. Hoffmann | University of Austin (UATX) | Mathematics |
+| [Mollie Raymond](https://www.linkedin.com/in/mollie-raymond-641640332?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | University of Austin (UATX) | Arts and Letters |
 
 
 ---
