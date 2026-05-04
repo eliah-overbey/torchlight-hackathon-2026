@@ -1,3 +1,22 @@
+<p align="center"><b>Supported by</b></p>
+
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://sera.space" target="_blank">
+        <img src="./images/sera.jpg" height="60"/>
+      </a>
+    </td>
+    <td width="40"></td>
+    <td align="center" valign="middle">
+      <a href="https://bioastra.org" target="_blank">
+        <img src="./images/bioastra.png" height="120"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 # Torchlight Hackathon 2026
 
 Welcome to the central hub for the Torchlight Summit Hackathon. This repository will be updated in real time throughout the competition.
