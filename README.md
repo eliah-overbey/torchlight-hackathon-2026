@@ -157,8 +157,15 @@ Good luck — build something meaningful.
 
 
 ---
-
 ### 🔹 Team 10
+
+| Name | Institution | Background |
+|------|------------|------------|
+| [Micah Briggs](https://www.linkedin.com/in/micah-briggs) | University of Austin (UATX) | STEM |
+| [Samuel McClure](https://www.linkedin.com/in/sam-mcclure-b655763a6/) | University of Austin (UATX) | Economics |
+
+---
+### 🔹 Team 11
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -166,7 +173,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 11
+### 🔹 Team 12
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -174,7 +181,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 12
+### 🔹 Team 13
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -182,7 +189,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 13
+### 🔹 Team 14
 
 | Name | Institution | Background |
 |------|------------|------------|
