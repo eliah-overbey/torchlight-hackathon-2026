@@ -120,6 +120,15 @@ Good luck — build something meaningful.
 
 ---
 
+### 🔹 Team 8
+
+| Name | Institution | Background |
+|------|------------|------------|
+| [Cormac Sans](x.com/cormac_mars) | Texas A&M | Space Engineering |
+
+
+---
+
 ## 🏁 Checkpoints & Deadlines
 
 Teams must complete all required checkpoints to qualify for judging.
