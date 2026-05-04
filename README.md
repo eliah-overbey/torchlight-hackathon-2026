@@ -238,3 +238,51 @@ Check here first before submitting a question.
 **Q:**  
 **A:**  
 
+
+---
+
+## Torchlight Summit
+
+<br>
+
+<p align="center"><b>This event is part of the <a href="https://torchlightsummit.org/">Torchlight Summit</a>.</b></p>
+<p align="center">Thank you to the generous support of our summit patrons.</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://uaustin.org/" target="_blank">
+        <img src="./images/uatx.jpeg" height="150"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://bioastra.org" target="_blank">
+        <img src="./images/bioastra.png" height="120"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://sera.space" target="_blank">
+        <img src="./images/sera.jpg" height="80"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://theclassicalsociety.com/" target="_blank">
+        <img src="./images/tcs.jpg" height="150"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://ursa.bio" target="_blank">
+        <img src="./images/ursa.jpg" height="120"/>
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://starbasebrewery.com" target="_blank">
+        <img src="./images/starbase.jpg" height="150"/>
+      </a>
+    </td>
+  </tr>
+</table>
