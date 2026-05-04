@@ -148,6 +148,16 @@ Good luck — build something meaningful.
 
 ---
 
+### 🔹 Team 9
+
+| Name | Institution | Background |
+|------|------------|------------|
+| [Thomas Olson](https://www.linkedin.com/in/thomaslukeolson?utm_source=share_via&utm_content=profile&utm_medium=member_ios) | University of Austin (UATX) | STEM |
+| Earl M. Hoffmann | University of Austin (UATX) | Mathematics |
+
+
+---
+
 ## 🏁 Checkpoints & Deadlines
 
 Teams must complete all required checkpoints to qualify for judging.
