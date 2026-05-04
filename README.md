@@ -158,6 +158,37 @@ Good luck — build something meaningful.
 
 ---
 
+### 🔹 Team 10
+
+| Name | Institution | Background |
+|------|------------|------------|
+| Jack Crawford | University of Austin (UATX) | STEM |
+
+---
+
+### 🔹 Team 11
+
+| Name | Institution | Background |
+|------|------------|------------|
+| Nicole Kargin | University of Austin (UATX) | STEM |
+
+---
+
+### 🔹 Team 12
+
+| Name | Institution | Background |
+|------|------------|------------|
+| Judah Levin | University of Austin (UATX) | STEM |
+
+---
+
+### 🔹 Team 13
+
+| Name | Institution | Background |
+|------|------------|------------|
+| Lucy Taylor | University of Austin (UATX) | STEM |
+
+---
 ## 🏁 Checkpoints & Deadlines
 
 Teams must complete all required checkpoints to qualify for judging.
