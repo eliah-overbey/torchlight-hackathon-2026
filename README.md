@@ -209,6 +209,13 @@ Teams must complete all required checkpoints to qualify for judging.
 | 5 |  |  |  |  |  |  |
 | 6 |  |  |  |  |  |  |
 | 7 |  |  |  |  |  |  |
+| 8 |  |  |  |  |  |  |
+| 9 |  |  |  |  |  |  |
+| 10 |  |  |  |  |  |  |
+| 11 |  |  |  |  |  |  |
+| 12 |  |  |  |  |  |  |
+| 13 |  |  |  |  |  |  |
+| 14 |  |  |  |  |  |  |
 
 ---
 
