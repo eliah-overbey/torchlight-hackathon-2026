@@ -81,18 +81,10 @@ Good luck — build something meaningful.
 | [Samuel M. Indyk](https://www.linkedin.com/in/samuel-indyk-b790b1272/) | University of Austin (UATX) | STEM |
 | [Eitan Zarin](https://www.linkedin.com/in/eitanzarin/) | University of Austin (UATX) | STEM |
 
+
 ---
 
 ### 🔹 Team 2
-
-| Name | Institution | Background |
-|------|------------|------------|
-| [Harris Wernick](https://www.linkedin.com/in/harris-wernick/) | University of Austin (UATX) | Data Science |
-| [Hayden Proctor](https://www.linkedin.com/in/hayden-proctor-b04068349/) | University of Austin (UATX) | STEM |
-
----
-
-### 🔹 Team 3
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -101,7 +93,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 4
+### 🔹 Team 3
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -109,7 +101,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 5
+### 🔹 Team 4
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -119,7 +111,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 6
+### 🔹 Team 5
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -129,7 +121,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 7
+### 🔹 Team 6
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -139,7 +131,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 8
+### 🔹 Team 7
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -148,7 +140,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 9
+### 🔹 Team 8
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -158,12 +150,21 @@ Good luck — build something meaningful.
 
 
 ---
-### 🔹 Team 10
+### 🔹 Team 9
 
 | Name | Institution | Background |
 |------|------------|------------|
 | [Micah Briggs](https://www.linkedin.com/in/micah-briggs) | University of Austin (UATX) | STEM |
 | [Samuel McClure](https://www.linkedin.com/in/sam-mcclure-b655763a6/) | University of Austin (UATX) | Economics |
+
+---
+
+### 🔹 Team 10
+
+| Name | Institution | Background |
+|------|------------|------------|
+| [Nicole Kargin](https://www.linkedin.com/in/nicolekargin/) | University of Austin (UATX) | Bioinformatics |
+| [Lucy Taylor](https://www.linkedin.com/in/lucy-taylor-8ab949392/) | University of Austin (UATX) | STEM |
 
 ---
 ### 🔹 Team 11
@@ -172,29 +173,6 @@ Good luck — build something meaningful.
 |------|------------|------------|
 | Jack Crawford | University of Austin (UATX) | STEM |
 
----
-
-### 🔹 Team 12
-
-| Name | Institution | Background |
-|------|------------|------------|
-| Nicole Kargin | University of Austin (UATX) | STEM |
-
----
-
-### 🔹 Team 13
-
-| Name | Institution | Background |
-|------|------------|------------|
-| Judah Levin | University of Austin (UATX) | STEM |
-
----
-
-### 🔹 Team 14
-
-| Name | Institution | Background |
-|------|------------|------------|
-| Lucy Taylor | University of Austin (UATX) | STEM |
 
 ---
 ## 🏁 Checkpoints & Deadlines
