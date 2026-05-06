@@ -231,7 +231,7 @@ Teams must complete all required checkpoints to qualify for judging.
 
 ## 🧠 Mentor Office Hours
 
-📍 **Zoom Link (all sessions):** [ZOOM LINK TBA]  
+📍 **Zoom Link (all sessions):** [Zoom Link](https://weillcornell.zoom.us/j/91386845884) (passcode in your competition confirmation email)
 
 🔐 Passcode provided in onboarding email  
 ⏳ Expect brief wait times if another team is currently with a mentor
