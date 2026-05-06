@@ -200,6 +200,9 @@ Teams must complete all required checkpoints to qualify for judging.
 
 [**Kickoff Slide Deck**](https://docs.google.com/presentation/d/1_M4wYlQ4xeKdqK_jV_1qHfs1vCx_23Rf/edit?usp=sharing&ouid=101078977103190434418&rtpof=true&sd=true)
 
+[**Kickoff Video**](https://youtu.be/J56_btVCl74) 
+
+
 #### 🏁 Proposal (May 6, 9:00 PM)
 - Problem statement  
 - Approach  
