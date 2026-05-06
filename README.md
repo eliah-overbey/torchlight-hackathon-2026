@@ -249,11 +249,9 @@ Teams must complete all required checkpoints to qualify for judging.
 
 ## 📊 Data Overview
 
-# Data Overview
-
 All datasets are from the four crew members of the [2021 SpaceX Inspiration4 mission](https://inspiration4.com/) and are publicly available through the [NASA Open Science Data Repository (OSDR)](https://science.nasa.gov/biological-physical/data/osdr/). Samples were collected at standardized timepoints before, during, and after the 3-day spaceflight: pre-flight (L-92, L-44, L-3), in-flight (FD2, FD3), and post-flight (R+1, R+45, R+82, R+194).
 
-## Getting Started
+### Getting Started
 
 A starter Google Colaboratory notebook is available that loads and previews all datasets described below directly from OSDR. This gives you the correct API calls to the database to access the relevant files from each dataset, as well as reformatting commands to make the datasets analysis-ready.
 
@@ -263,7 +261,7 @@ A starter Google Colaboratory notebook is available that loads and previews all 
 
 ---
 
-## 1. Oral, Nasal, and Skin Microbial Swabs · [OSD-572](https://osdr.nasa.gov/bio/repo/data/studies/OSD-572)
+### 1. Oral, Nasal, and Skin Microbial Swabs · [OSD-572](https://osdr.nasa.gov/bio/repo/data/studies/OSD-572)
 
 Microbial swabs collected from ten body sites (oral, nasal cavity, post-auricular, axillary vault, volar forearm, occiput, umbilicus, gluteal crease, glabella, and toe web space) at 8 timepoints (L-92, L-44, L-3, FD2, FD3, R+1, R+45, R+82). Four data files characterize the microbial communities in each swab:
 
@@ -276,13 +274,13 @@ Microbial swabs collected from ten body sites (oral, nasal cavity, post-auricula
 
 ---
 
-## 2. Blood Serum Metabolic Panel · [OSD-575](https://osdr.nasa.gov/bio/repo/data/studies/OSD-575)
+### 2. Blood Serum Metabolic Panel · [OSD-575](https://osdr.nasa.gov/bio/repo/data/studies/OSD-575)
 
 Serum extracted from whole blood collected via venipuncture (L-92, L-44, L-3, R+1, R+45, R+82) and submitted to Quest Diagnostics for comprehensive metabolic panel testing. Rows are metabolic measurements; columns are crew member samples.
 
 ---
 
-## 3. Immune & Cardiac Cytokine Arrays · [OSD-575](https://osdr.nasa.gov/bio/repo/data/studies/OSD-575)
+### 3. Immune & Cardiac Cytokine Arrays · [OSD-575](https://osdr.nasa.gov/bio/repo/data/studies/OSD-575)
 
 Serum from the same venipuncture collections submitted for multiplex cytokine biomarker profiling. Three panels are available:
 
@@ -296,43 +294,43 @@ In each file, rows are cytokine measurements and columns are crew member samples
 
 ---
 
-## 4. Dragon Capsule Microbial Swabs · [OSD-573](https://osdr.nasa.gov/bio/repo/data/studies/OSD-573)
+### 4. Dragon Capsule Microbial Swabs · [OSD-573](https://osdr.nasa.gov/bio/repo/data/studies/OSD-573)
 
 Microbial swabs from nine surfaces inside the Dragon capsule (execute button, G-meter button, left and right control touch screens, side hatch mobility aid, waste locker lid, seat 2, commode panel, viewing dome) plus an open air control. Collected twice pre-flight at the crew training capsule (L-92, L-44) and twice during flight (FD2, FD3). Same four data files as dataset 1 (KO, taxonomy, pathway, gene family), with rows as features and columns as capsule surface samples.
 
 ---
 
-## 5. Plasma Metabolomics · [OSD-571](https://osdr.nasa.gov/bio/repo/data/studies/OSD-571)
+### 5. Plasma Metabolomics · [OSD-571](https://osdr.nasa.gov/bio/repo/data/studies/OSD-571)
 
 Plasma from venous blood (L-92, L-44, L-3, R+1, R+45, R+82) used for untargeted metabolomics. Processed data reflects differential metabolite abundance comparing R+1 vs. pre-flight (L-92, L-44, L-3) using limma. Positive logFC = higher abundance post-flight. Rows are metabolites; columns are limma differential expression statistics.
 
 ---
 
-## 6. Plasma EVP Proteomics · [OSD-571](https://osdr.nasa.gov/bio/repo/data/studies/OSD-571)
+### 6. Plasma EVP Proteomics · [OSD-571](https://osdr.nasa.gov/bio/repo/data/studies/OSD-571)
 
 Extracellular vesicles and particles (EVPs) isolated from the same plasma collections and analyzed by mass spectrometry. Processed data reflects differential protein abundance (R+1 vs. pre-flight) using limma. Rows are proteins quantified from EVPs; columns are differential expression statistics.
 
 ---
 
-## 7. Plasma Proteomics · [OSD-571](https://osdr.nasa.gov/bio/repo/data/studies/OSD-571)
+### 7. Plasma Proteomics · [OSD-571](https://osdr.nasa.gov/bio/repo/data/studies/OSD-571)
 
 Bulk plasma proteomics from the same collections. Differential protein abundances calculated pre vs. post-flight using limma. Rows are proteins; columns are differential expression statistics.
 
 ---
 
-## 8. Urine Inflammation Panel · [OSD-656](https://osdr.nasa.gov/bio/repo/data/studies/OSD-656)
+### 8. Urine Inflammation Panel · [OSD-656](https://osdr.nasa.gov/bio/repo/data/studies/OSD-656)
 
 Urine collected pre- and post-flight (L-92, L-44, L-3, R+1, R+45, R+82). 203 inflammatory, cytokine, and chemokine proteins quantified using NULISAseq multiplex assay. Rows are crew member samples at specific timepoints; columns are protein quantifications.
 
 ---
 
-## 9. Stool Metagenome Profiling · [OSD-630](https://osdr.nasa.gov/bio/repo/data/studies/OSD-630)
+### 9. Stool Metagenome Profiling · [OSD-630](https://osdr.nasa.gov/bio/repo/data/studies/OSD-630)
 
 Stool collected in OMNIgene•GUT tubes pre-flight (L-92, L-44) and post-flight (R+45, R+82). Same four data files as dataset 1 (KO, taxonomy, pathway, gene family), characterizing the gut microbial community at each timepoint. Rows are features; columns are crew member stool samples.
 
 ---
 
-## 10. Whole Blood Profiling · [OSD-569](https://osdr.nasa.gov/bio/repo/data/studies/OSD-569)
+### 10. Whole Blood Profiling · [OSD-569](https://osdr.nasa.gov/bio/repo/data/studies/OSD-569)
 
 Whole blood collected via venipuncture (L-92, L-44, L-3, R+1, R+45, R+82, R+194). Three data products are available:
 
@@ -344,7 +342,7 @@ Whole blood collected via venipuncture (L-92, L-44, L-3, R+1, R+45, R+82, R+194)
 
 ---
 
-## 11. PBMC Profiling · [OSD-570](https://osdr.nasa.gov/bio/repo/data/studies/OSD-570)
+### 11. PBMC Profiling · [OSD-570](https://osdr.nasa.gov/bio/repo/data/studies/OSD-570)
 
 PBMCs (peripheral blood mononuclear cells) isolated from venipuncture collections (L-92, L-44, L-3, R+1, R+45, R+82). PBMCs are the immune cells circulating in blood; profiling them reveals how the immune system is adapting or dysregulating in real time. Three data products are available:
 
@@ -356,7 +354,7 @@ PBMCs (peripheral blood mononuclear cells) isolated from venipuncture collection
 
 ---
 
-## 12. Deltoid Skin Biopsies & Microbiome · [OSD-574](https://osdr.nasa.gov/bio/repo/data/studies/OSD-574)
+### 12. Deltoid Skin Biopsies & Microbiome · [OSD-574](https://osdr.nasa.gov/bio/repo/data/studies/OSD-574)
 
 Deltoid skin biopsies collected once pre-flight (L-44) and once post-flight (R+1) from four crew members pre-flight (C001–C004) and three post-flight (C002–C004). Two data products are available:
 
