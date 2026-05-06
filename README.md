@@ -17,9 +17,9 @@
   </tr>
 </table>
 
-# Torchlight Hackathon 2026
+# Torchlight Biosovereignty Hackathon 2026
 
-Welcome to the central hub for the Torchlight Summit Hackathon. This repository will be updated in real time throughout the competition.
+Welcome to the central hub for the Torchlight Summit Biosovereignty Hackathon. This repository will be updated in real time throughout the competition.
 
 ---
 
