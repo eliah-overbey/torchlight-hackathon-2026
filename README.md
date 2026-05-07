@@ -179,7 +179,7 @@ Good luck — build something meaningful.
 
 Teams must complete all required checkpoints to qualify for judging.
 
-| Team # | 🏁 Proposal (May 7, 9PM) | 🏁 Video Log #1 (May 8, 12PM) | 🏁 Checkpoint #1 (May 8, 6PM) | 🏁 Video Log #2 (May 9, 12PM) | 🏁 Checkpoint #2 (May 9, 6PM) | 🏁 Final Submission (May 9, 4PM) |
+| Team # | 🏁 Proposal (May 6, 9PM) | 🏁 Video Log #1 (May 7, 12PM) | 🏁 Checkpoint #1 (May 7, 6PM) | 🏁 Video Log #2 (May 8, 12PM) | 🏁 Checkpoint #2 (May 8, 6PM) | 🏁 Final Submission (May 9, 4PM) |
 |--------|--------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|----------------------------------|
 | 1 |  |  |  |  |  |  |
 | 2 |  |  |  |  |  |  |
@@ -188,9 +188,9 @@ Teams must complete all required checkpoints to qualify for judging.
 | 5 |  |  |  |  |  |  |
 | 6 |  |  |  |  |  |  |
 | 7 |  |  |  |  |  |  |
-| 8 |  |  |  |  |  |  |
+| 8 | 🟢  |  |  |  |  |  |
 | 9 |  |  |  |  |  |  |
-| 10 |  |  |  |  |  |  |
+| 10 | 🟢 |  |  |  |  |  |
 | 11 |  |  |  |  |  |  |
 
 ---
