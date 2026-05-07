@@ -380,9 +380,11 @@ This section will be updated live throughout the competition.
 
 Check here first before submitting a question.
 
-**Q:**  
-**A:**  
+**Q: Will the judges be looking at each team's checkpoint submissions as part of scoring, or only the final GitHub?**  
+**A:**  The judges will not be evaluating checkpoint submissions. Dr. Overbey and Dr. Sanders will monitor the checkpoints. Projects that pass all checkpoints will be sent to the judges, where only their final Github is evaluated.
 
+**Q: For the proposal (and later submissions), does it have to be a more formal paragraph-style response, or would a bullet point outline work?**  
+**A:**  A bullet point outline works. We are looking for evidence of progress at the proposal and other competition checkpoints.
 
 ---
 
