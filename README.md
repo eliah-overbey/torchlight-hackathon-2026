@@ -187,7 +187,7 @@ Teams must complete all required checkpoints to qualify for judging.
 | 4 | 🟢 | 🟢 | 🟢 | 🟢 |  |  |
 | 5 | 🟢 | 🟢 | 🟢 |  |  |  |
 | 6 | 🟢 | 🟢 | 🟢 | 🟢 |  |  |
-| 7 | 🟢  | 🟢 | 🟢 |  |  |  |
+| 7 | 🟢  | 🟢 | 🟢 | 🟢 |  |  |
 | 8 | 🟢  | 🟢 | 🟢 | 🟢 |  |  |
 | 9 |  🟢 | 🟢 | 🟢 | 🟢 |  |  |
 | 10 | 🟢 | 🟢 | 🟢 | 🟢 |  |  |
