@@ -1,3 +1,17 @@
+# The Hackathon has concluded. Thank you for participating!
+
+# Winning Teams
+
+| Award | Team Members | School | GitHub |
+|---|---|---|---|
+| 🥇 1st Place | Rogan Carpenter, Will McCollum, Nathaniel Freed | University of Austin (UATX) | [Team-5-Better-Than-Peter-And-Tony](https://github.com/BigEyeJoe81/Team-5-Better-Than-Peter-And-Tony) |
+| 🥈 2nd Place | Vishnu Mahesha | Rouse High School / Alpha X Program | [body-in-orbit](https://github.com/vishnumahesha/body-in-orbit) |
+| 🥉 3rd Place | Micah Briggs, Samuel McClure | University of Austin (UATX) | [torchlight-hackathon-2027](https://github.com/rmbriggs/torchlight-hackathon-2027) |
+| 🤖 Best Use of AI Award | Samuel M. Indyk, Eitan Zarin | University of Austin (UATX) | [Torchlight_SamEitan](https://github.com/Sam-Indyk/Torchlight_SamEitan) |
+| 🧑‍⚖️ Judge's Choice Award | Thomas Olson, Earl Hoffman, Mollie Raymond | University of Austin (UATX) | [TorchLight-Hackathon](https://github.com/ThomasOlson1/TorchLight-Hackathon) |
+| ⭐ Honorable Mention | Peter Vasilik, Tony Udotong | University of Austin (UATX) | [torchlight-dashboard](https://github.com/BerryNotes/torchlight-dashboard) |
+
+
 <p align="center"><b>Supported by</b></p>
 
 
@@ -74,17 +88,16 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 1
+### 🔹 Team 1 ([Repo](https://github.com/Sam-Indyk/Torchlight_SamEitan ))
 
 | Name | Institution | Background |
 |------|------------|------------|
 | [Samuel M. Indyk](https://www.linkedin.com/in/samuel-indyk-b790b1272/) | University of Austin (UATX) | STEM |
 | [Eitan Zarin](https://www.linkedin.com/in/eitanzarin/) | University of Austin (UATX) | STEM |
 
-
 ---
 
-### 🔹 Team 2
+### 🔹 Team 2 ([Repo](https://github.com/BerryNotes/torchlight-dashboard ))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -93,7 +106,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 3
+### 🔹 Team 3 ([Repo](https://github.com/vishnumahesha/body-in-orbit))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -101,7 +114,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 4
+### 🔹 Team 4 ([Repo](https://github.com/munozsan03/Astro_Team4))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -111,7 +124,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 5
+### 🔹 Team 5 ([Repo](https://github.com/BigEyeJoe81/Team-5-Better-Than-Peter-And-Tony ))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -121,7 +134,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 6
+### 🔹 Team 6 ([Repo](https://github.com/RohanP1506/AstronautMD ))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -131,7 +144,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 7
+### 🔹 Team 7 ([Repo](https://github.com/Cormac-Mars/torchlight-hackathon-2026-cormac ))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -140,7 +153,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 8
+### 🔹 Team 8 ([Repo](https://github.com/ThomasOlson1/TorchLight-Hackathon ))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -150,7 +163,7 @@ Good luck — build something meaningful.
 
 
 ---
-### 🔹 Team 9
+### 🔹 Team 9 ([Repo](https://github.com/rmbriggs/torchlight-hackathon-2027 ))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -159,7 +172,7 @@ Good luck — build something meaningful.
 
 ---
 
-### 🔹 Team 10
+### 🔹 Team 10 ([Repo](https://github.com/nicolekargin/i4-personal-risk-profile))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -167,7 +180,7 @@ Good luck — build something meaningful.
 | [Lucy Taylor](https://www.linkedin.com/in/lucy-taylor-8ab949392/) | University of Austin (UATX) | STEM |
 
 ---
-### 🔹 Team 11
+### 🔹 Team 11 ([Repo](https://github.com/JR-Crawford-12121/spaceflight-damage-response/tree/main ))
 
 | Name | Institution | Background |
 |------|------------|------------|
@@ -181,17 +194,17 @@ Teams must complete all required checkpoints to qualify for judging.
 
 | Team # | 🏁 Proposal (May 6, 9PM) | 🏁 Video Log #1 (May 7, 12PM) | 🏁 Checkpoint #1 (May 7, 6PM) | 🏁 Video Log #2 (May 8, 12PM) | 🏁 Checkpoint #2 (May 8, 6PM) | 🏁 Final Submission (May 9, 4PM) |
 |--------|--------------------------|-------------------------------|-------------------------------|-------------------------------|-------------------------------|----------------------------------|
-| 1 | 🟢 | 🟢 |  |  | 🟢 |  |
-| 2 | 🟢 |  | 🟢 | 🟢 | 🟢 |  |
-| 3 | 🟢  | 🟢 | 🟢  | 🟢 | 🟢 |  |
-| 4 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |  |
-| 5 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |  |
-| 6 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |  |
-| 7 | 🟢  | 🟢 | 🟢 | 🟢 |  |  |
-| 8 | 🟢  | 🟢 | 🟢 | 🟢 | 🟢 |  |
-| 9 |  🟢 | 🟢 | 🟢 | 🟢 | 🟢 |  |
-| 10 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |  |
-| 11 |  |  |  |  |  |  |
+| 1 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 2 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 3 | 🟢  | 🟢 | 🟢  | 🟢 | 🟢 | 🟢 |
+| 4 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 5 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 6 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 7 | 🟢  | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 8 | 🟢  | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 9 |  🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 10 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
+| 11 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 | 🟢 |
 
 ---
 
