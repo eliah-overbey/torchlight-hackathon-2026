@@ -11,6 +11,15 @@
 | 🧑‍⚖️ Judge's Choice Award | Thomas Olson, Earl Hoffman, Mollie Raymond | University of Austin (UATX) | [TorchLight-Hackathon](https://github.com/ThomasOlson1/TorchLight-Hackathon) |
 | ⭐ Honorable Mention | Peter Vasilik, Tony Udotong | University of Austin (UATX) | [torchlight-dashboard](https://github.com/BerryNotes/torchlight-dashboard) |
 
+# Judges
+
+| Judge | Affiliation |
+|---|---|
+| <img src="./images/cromer.png" width="120"><br><b>Walter Cromer, PhD</b> | Professor & Deputy Director: Aerospace Medicine Program<br>Texas A&M |
+| <img src="./images/cornell.png" width="120"><br><b>Lauren Cornell, PhD</b> | Lead Scientist Diagnostics and Therapeutics<br>Office of the Chief Scientist<br>59th Medical Wing<br>USAF |
+| <img src="./images/brawley.png" width="120"><br><b>Hayley Brawley, PhD</b> | Clinical & Operational Space Medicine Innovation Consortium<br>59th Medical Wing<br>USAF |
+| <img src="./images/shukla.png" width="120"><br><b>Tarjani Shukla, PhD</b> | Bioinformatics Scientist<br>59th Medical Wing<br>USAF |
+
 
 <p align="center"><b>Supported by</b></p>
 
